@@ -1,0 +1,10 @@
+config {
+  type: "table",
+}
+
+
+SELECT
+  *
+FROM
+  
+  celestial-feat-400905.Bigquery_pyspark_tarnsformation.orders
